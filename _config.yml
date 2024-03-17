@@ -18,10 +18,10 @@ avatar: https://github.com/tkrisztian95.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: ktothdev[at]gmail.com
-  flickr: https://www.flickr.com/people/157315092@N06/
-  github: https://github.com/tkrisztian95
-  linkedin: https://www.linkedin.com/in/krisztian-gyula-toth/
-  stackoverflow: https://stackoverflow.com/users/5077307/t%c3%b3th-kriszti%c3%a1n-gyula
+  flickr: /people/157315092@N06/
+  github: tkrisztian95
+  linkedin: krisztian-gyula-toth/
+  stackoverflow: /users/5077307/t%c3%b3th-kriszti%c3%a1n-gyula
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
